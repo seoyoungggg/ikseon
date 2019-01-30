@@ -557,7 +557,7 @@ ol {
     #header{
         width: 100%;
         height: 355px;
-        background: url(header.jpg) no-repeat;
+        background: url('header.jpg') no-repeat;
         background-position: center center;
         background-size: cover;
     }
